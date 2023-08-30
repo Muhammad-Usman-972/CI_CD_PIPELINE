@@ -1,3 +1,5 @@
+[![Python application](https://github.com/Muhammad-Usman-972/CI_CD_PIPELINE/actions/workflows/python-app.yml/badge.svg)](https://github.com/Muhammad-Usman-972/CI_CD_PIPELINE/actions/workflows/python-app.yml)
+
 ## For Windows
 ### create a virtual environment
 ```bash
