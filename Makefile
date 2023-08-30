@@ -11,7 +11,7 @@ lint:
 
 test:
 	@echo "Running tests..."
-	python -m unittest discover -s src
+	pytest src/test*.py
 	@echo "Done running tests."
 
 run:
